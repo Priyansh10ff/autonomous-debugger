@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Ensure dark mode background fills screen */
+body {
+  background-color: #1e1e1e;
+  margin: 0;
+}

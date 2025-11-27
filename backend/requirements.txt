@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+docker
+ollama
+pydantic
+python-multipart
